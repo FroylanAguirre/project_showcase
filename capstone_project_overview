@@ -1,0 +1,19 @@
+Capstone Project Overview and Description
+
+All Computer Engineering students take Capstone and Senior Project, each two quarters long. Simply put, Capstone is a group senior project and is assigned
+from an already existing project. In Capstone, outside organizations propose projects that Cal Poly students can complete that
+will benefit both the students and the participating organization. These organizations can be companies, government departments, 
+and even other Cal Poly professors. 
+My Capstone project is "Fault Injection using JTAG" from Cisco. For this project, my capstone group is studying the feasibility of 
+software-based fault injection using JTAG. Essentially, we are flipping bits in memory and studying how errors propagate through 
+a system. Due to privacy concerns, I won't be posting any code or anything too specific. I'll be mainly focus on my 
+responsibilities in the group. As of right now, I am responsible for creating a human-friendly memory map that displays memory
+stats and revelant memory areas. I use the tkinter package in Python to create the GUI.
+I will update this as I continue to work on the project.
+
+Ideas:
+-Use pycparser to parse global variables from source code.
+-find more debug compiler options
+
+
+
