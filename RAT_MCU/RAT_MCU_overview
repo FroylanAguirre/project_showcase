@@ -1,4 +1,10 @@
 
 RAT MCU Project Overview and Description
 
-For 
+This is one of my more memorable class projects. In this class, the professor gave us a block diagram of the RAT MCU and each
+lab we implemented a block. By the end of the quarter, we integrate all the blocks together to form the RAT MCU and write
+programs in assembly. The RAT MCU was implemented on a Xilinx Basys-3 development board. 
+This class (Computer Design and Assembly Programing) along with Digital Design were the two classes that sparked my interest in 
+embedded systems programming and FPGA development. I thought of it like putting together small pieces of electronic lego blocks. 
+For me, this project demystified processors, pulling the curtain off the MCU to reveal not a magic box, but a complex web of 
+registers, combinatorial circuits, and busses.
