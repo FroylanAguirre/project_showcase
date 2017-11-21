@@ -1,3 +1,12 @@
-VGA Solid Color Interface Module
+VGA Solid Color Interface Module Project Overview and Description
+
+I chose to do this for the final project of my digital design class. I designed a digital circuit on a Xilinx Basys-3 FPGA board
+that takes in three numbers through switches, each number is in 4-bit binary representing a RGB value. The monitor displays the 
+resulting color. 
+This was my first "big" project on an FPGA, and it was pretty challenging. A reoccuring problem was that the screen would alternate
+between the chosen color and dark vertical lines. It turned out to be a timing problem, but it took an entire day's worth to solve.
+The timing problem was a result of pushing the FPGA's clock to the limit, edging on the limits of proper setup and holdup times.
+Looking back, I wish I could have told myself "LOOK AT THE DATASHEET!". Speaking from experience, inexperience can be quite
+debilitating. 
 
 
