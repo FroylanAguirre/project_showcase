@@ -1,0 +1,8 @@
+Soundboard Project Package Redo
+
+The last project in my embedded systems class involved designing a product of our choosing. My lab partner and I
+decided to make a sound board capable of recording and playing back three, 4s audio clips. The final product was a mess of
+stiff wires, weakly attached to a breadboard (see photo in this file). 
+Unsatisfied with this, I orderned the necessary parts from Digikey to redo the project, but this time on a stripboard instead
+of a breadboard.
+
