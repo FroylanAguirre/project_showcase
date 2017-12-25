@@ -6,3 +6,4 @@ stiff wires, weakly attached to a breadboard (see photo in this file).
 Unsatisfied with this, I orderned the necessary parts from Digikey to redo the project, but this time on a stripboard instead
 of a breadboard.
 
+12-24-2017 : Seven segment display driver works. Selection buttons soldered and tested.
