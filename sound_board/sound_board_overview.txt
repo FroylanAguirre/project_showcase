@@ -7,3 +7,6 @@ Unsatisfied with this, I orderned the necessary parts from Digikey to redo the p
 of a breadboard.
 
 12-24-2017 : Seven segment display driver works. Selection buttons soldered and tested.
+1-1-2018: Stripboard completed, testing began. Everything functions EXCEPT for data retrieval/writing for the EEPROMS ICs. Using
+  the original EEPROMS reveals that they still function, but the new ones dont. Voltage readings of SDA and SCL lines reveal
+  that SDA is pulled to Vdd, but SCL is at ~1V. Most likely a slave device issue.
